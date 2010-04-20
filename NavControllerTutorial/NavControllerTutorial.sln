@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavControllerTutorial", "NavControllerTutorial\NavControllerTutorial.csproj", "{F4B45D4C-83E2-42DC-BD5B-0DBF4F2D65ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B45D4C-83E2-42DC-BD5B-0DBF4F2D65ED}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{F4B45D4C-83E2-42DC-BD5B-0DBF4F2D65ED}.Debug|iPhone.Build.0 = Debug|iPhone
+		{F4B45D4C-83E2-42DC-BD5B-0DBF4F2D65ED}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{F4B45D4C-83E2-42DC-BD5B-0DBF4F2D65ED}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{F4B45D4C-83E2-42DC-BD5B-0DBF4F2D65ED}.Release|iPhone.ActiveCfg = Release|iPhone
+		{F4B45D4C-83E2-42DC-BD5B-0DBF4F2D65ED}.Release|iPhone.Build.0 = Release|iPhone
+		{F4B45D4C-83E2-42DC-BD5B-0DBF4F2D65ED}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{F4B45D4C-83E2-42DC-BD5B-0DBF4F2D65ED}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = NavControllerTutorial\NavControllerTutorial.csproj
+	EndGlobalSection
+EndGlobal
